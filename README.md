@@ -1,6 +1,8 @@
 # Everlasting-Dictionary-II
 
-![Everlasting Dictionary II](https://raw.githubusercontent.com/sparkeeperoid/Everlasting-Dictionary-II/main/ED-logos/ED-logo-mini.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sparkeeperoid/Everlasting-Dictionary-II/main/ED-logos/ED-logo-mini.png" alt="Everlasting Dictionary II" width="300"/>
+</p>
 
 A personal dictionary Android application made to list down new words that I've learned...especially from FINAL FANTASY XIV.
 This entire thingamajig was vibe-coded by Gemini Pro 2.5 as a part of me testing it, having heard hearsays of how good it is.
