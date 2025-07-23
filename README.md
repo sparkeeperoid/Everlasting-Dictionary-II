@@ -1,4 +1,4 @@
-# Everlasting-Dictionary-II
+# Everlasting Dictionary II
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sparkeeperoid/Everlasting-Dictionary-II/main/ED-logos/ED-logo-mini.png" alt="Everlasting Dictionary II" width="300"/>
